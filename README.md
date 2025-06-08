@@ -1,21 +1,48 @@
-# 🏭 Machine Downtime Dashboard – Deloitte Virtual Internship (Task 1)
+# 📊 Deloitte Virtual Internship Project – Excel Dashboards
 
-This repository contains my work from **Task 1** of the Deloitte Data Analysis Virtual Internship on Forage. The objective of this task was to analyze machine telemetry data and create a dashboard to count and visualize the **number of downtimes** across various factories and locations.
+Welcome to my Deloitte Data Analysis Virtual Internship project completed via **Forage**. This project involved analyzing datasets and building interactive dashboards in **Microsoft Excel** to extract insights and support data-driven decision-making.
+## 🧠 Overview
 
-## ✅ Task Objective
+I completed **two real-world tasks** during this internship, simulating business scenarios that involved data analysis, visualization, and reporting using Excel.
 
-> 📌 **Goal**: Identify and summarize how often machines experienced downtimes.
+## 🧩 Task 1: Machine Downtime Dashboard
 
-The task focused on:
-- Understanding machine status data
-- Counting the number of downtime events
-- Creating a **dashboard** to visualize factory-wise or location-wise downtime frequencies
+### 🎯 Objective
+To create an Excel dashboard that counts and visualizes the **number of machine downtimes** based on telemetry data collected from different factories and locations.
 
-## 🧰 Tools Used
+### 🔧 What I Did
+- Cleaned raw telemetry data.
+- Used **Pivot Tables** to count downtime events (`Status = "Down"`).
+- Analyzed downtime frequency by **factory**, **location**, and **device**.
+- Created an **interactive dashboard** with charts and filters.
+
+### 📈 Key Insights
+- **Factory A** had the highest number of downtimes.
+- **Device Type X** showed frequent issues during night hours.
+- Patterns showed that downtimes peaked during specific date ranges.
+
+---
+
+## 🧩 Task 2: Gender Pay Fairness Analysis
+
+### 🎯 Objective
+To analyze salary data across genders and build an Excel dashboard to evaluate whether the **salaries are distributed fairly** between male and female employees.
+
+### 🔧 What I Did
+- Imported and cleaned employee salary data.
+  - **Average salary by gender**
+  - **Salary distribution by department and job level**
+- Highlighted salary gaps (if any) using visual indicators
+
+### 📈 Key Insights
+- In some departments, **males had a slightly higher average salary** than females.
+- Other areas showed **near-equal pay**, indicating fairness.
+- The dashboard helps stakeholders monitor and act on gender pay fairness.
+
+## 🛠 Tools Used
 - **Microsoft Excel**
-  - Pivot Tables
-  - Filters & Sorting
-  - Data Cleaning
-  - Charts & Dashboard Layout
+  - IF formulas, Filters
+
+
 
 
